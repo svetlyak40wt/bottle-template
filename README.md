@@ -1,0 +1,1 @@
+A simple web app skeleton, based on bottle. To be used along with SaltStack petprojects recipe.
